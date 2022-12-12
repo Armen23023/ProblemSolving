@@ -1,6 +1,6 @@
 package W1Day1;
 
-public class Solution {
+public class LeetCode724 {
     public int pivotIndex(int[] nums) {
         int leftSum = 0;
         int rightSum = 0;
