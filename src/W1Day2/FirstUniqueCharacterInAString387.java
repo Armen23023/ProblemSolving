@@ -14,6 +14,6 @@ public class FirstUniqueCharacterInAString387 {
 
 
     public static void main(String[] args) {
-        System.out.println(FirstUniqueCharacterInAString387.firstUniqChar(""));
+        System.out.println(FirstUniqueCharacterInAString387.firstUniqChar("leetcode"));
     }
 }
