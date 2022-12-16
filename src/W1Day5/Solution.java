@@ -1,5 +1,5 @@
 package W1Day5;
-
+// chi ashxatum
 class Solution1 {
     static public void merge(int[] nums1, int m, int[] nums2, int n) {
         int t=0;
