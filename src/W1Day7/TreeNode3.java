@@ -13,7 +13,7 @@ public class TreeNode3 {
       }
 }
   // 185/228      110. Balanced Binary Tree
-class Solution1 {
+class Solution3 {
     static  int depth = 0;
    static public boolean isBalanced(TreeNode3 root) {
         int l = 0;
@@ -52,6 +52,6 @@ class Solution1 {
 
     public static void main(String[] args) {
         TreeNode3 t = new TreeNode3(1,null,new TreeNode3(2,null,new TreeNode3(3)));
-        Solution1.isBalanced(t);
+        Solution3.isBalanced(t);
         }
 }
